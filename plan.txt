@@ -1,0 +1,20 @@
+=========
+REST API
+Flask
+HTML CSS3 BOOTSTRAP Js[if needed]
+=========
+Task:
+1. Register
+2. Login
+3. Logout
+4. Show from mail database
+5. Send mail and text body
+6. Auto response
+7. Select mail using subject
+8. Deletion
+9. Showing full CV
+10. Crud in CV showing part.
+11. Selected candidates list
+12. Mailing every x people before 3 days
+13. Keeping records in individual table his score
+14. Previous user sending mail will show his history
